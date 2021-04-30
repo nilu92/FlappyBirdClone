@@ -1,0 +1,15 @@
+C:\Users\Nikla\source\repos\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Nikla\source\repos\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Nikla\source\repos\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Nikla\source\repos\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\Users\Nikla\source\repos\FlappyBird\obj\Debug\MainWindow.g.cs
+C:\Users\Nikla\source\repos\FlappyBird\obj\Debug\App.g.cs
+C:\Users\Nikla\source\repos\FlappyBird\obj\Debug\FlappyBird_MarkupCompile.cache
+C:\Users\Nikla\source\repos\FlappyBird\obj\Debug\FlappyBird_MarkupCompile.lref
+C:\Users\Nikla\source\repos\FlappyBird\obj\Debug\MainWindow.baml
+C:\Users\Nikla\source\repos\FlappyBird\obj\Debug\FlappyBird.g.resources
+C:\Users\Nikla\source\repos\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Nikla\source\repos\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Nikla\source\repos\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\Nikla\source\repos\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Nikla\source\repos\FlappyBird\obj\Debug\FlappyBird.pdb
